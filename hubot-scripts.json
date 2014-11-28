@@ -1,1 +1,1 @@
-["redis-brain.coffee", "keep-alive.coffee"]
+["redis-brain.coffee", "keep-alive.coffee", "github-merge", "travis"]
